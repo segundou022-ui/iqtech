@@ -1,0 +1,19 @@
+{
+  "procesos": [
+    {
+      "nombre": "Destilación Fraccionada",
+      "reactivos": "Mezcla Hidrocarbónica",
+      "eficiencia": "92%"
+    },
+    {
+      "nombre": "Adsorción",
+      "reactivos": "Carbón Activado",
+      "eficiencia": "78%"
+    },
+    {
+      "nombre": "Síntesis",
+      "reactivos": "Ácido Acético, Etanol (Catalizador: Carbón Activado)",
+      "eficiencia": "80%"
+    }
+  ]
+}
